@@ -20,7 +20,7 @@ Database changed
 mysql>  create table data(NAME varchar(69) , PASSWORD integer(4) NOT NULL , ACCOUNT_BALANCE integer);
 Query OK, 0 rows affected, 1 warning (0.46 sec)
 
-mysql> insert into data values ('Ananya', 1111, 100000), ( 'Arunpallav',2222,125000), ('Tashvi',3333,150000),('Swapnil',4444,200000),('Aishwarya',5555,225000),('Angad',6666,250000);
+mysql> insert into data values ('Ananya', 1111, 100000), ( 'Arun',2222,125000), ('Tanya',3333,150000),('Swapnil',4444,200000),('Aishwarya',5555,225000),('Angad',6666,250000);
 Query OK, 6 rows affected (0.12 sec)
 Records: 6  Duplicates: 0  Warnings: 0
 
